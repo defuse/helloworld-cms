@@ -1,3 +1,5 @@
+WARNING: I am no longer maintaining this code. Use at your own risk.
+
 Defuse Cyber-Security's Secure & Lightweight CMS in PHP for Linux.
 Setup & Usage Instructions: https://defuse.ca/helloworld-cms.htm
 
